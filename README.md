@@ -1,2 +1,2 @@
 # Interview-Bit-Python
-Solutions to problems on Interview Bit https://www.interviewbit.com/
+Solutions to problems on Interview Bit https://www.interviewbit.com/ in python3
